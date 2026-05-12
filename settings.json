@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "afk bot",
     "password": "bot812",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "QuartzLantern.aternos.me",
