@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "afk bot",
     "password": "bot812",
     "type": "online"
   },
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -37,
+    "y": 108 ,
+    "z": -79
   },
   "utils": {
     "auto-auth": {
