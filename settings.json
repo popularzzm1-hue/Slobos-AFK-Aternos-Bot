@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "bot812",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "QuartzLantern.aternos.me",
@@ -38,7 +38,7 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 99999,
     "max-reconnect-delay": 120000
   },
   "movement": {
